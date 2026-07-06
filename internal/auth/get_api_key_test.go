@@ -38,4 +38,3 @@ func TestGetAPIKey(t *testing.T) {
 		assert.Equal(t, "abc123", apiKey)
 	})
 }
-
